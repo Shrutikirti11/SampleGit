@@ -20,4 +20,9 @@ public class Basics2 {
 		System.out.println("2ThirdTest");
 		
 	}
+	@Test
+	public void Demo34(){
+		System.out.println("2ThirdTest");
+		
+	}
 }
